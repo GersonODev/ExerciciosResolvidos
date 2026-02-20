@@ -1,0 +1,15 @@
+C:\Alura\Testes\TesteOOEncapsulamento\FCEF\E03ControlandoAcesso\bin\Debug\net9.0\E03ControlandoAcesso.exe
+C:\Alura\Testes\TesteOOEncapsulamento\FCEF\E03ControlandoAcesso\bin\Debug\net9.0\E03ControlandoAcesso.deps.json
+C:\Alura\Testes\TesteOOEncapsulamento\FCEF\E03ControlandoAcesso\bin\Debug\net9.0\E03ControlandoAcesso.runtimeconfig.json
+C:\Alura\Testes\TesteOOEncapsulamento\FCEF\E03ControlandoAcesso\bin\Debug\net9.0\E03ControlandoAcesso.dll
+C:\Alura\Testes\TesteOOEncapsulamento\FCEF\E03ControlandoAcesso\bin\Debug\net9.0\E03ControlandoAcesso.pdb
+C:\Alura\Testes\TesteOOEncapsulamento\FCEF\E03ControlandoAcesso\obj\Debug\net9.0\E03ControlandoAcesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alura\Testes\TesteOOEncapsulamento\FCEF\E03ControlandoAcesso\obj\Debug\net9.0\E03ControlandoAcesso.AssemblyInfoInputs.cache
+C:\Alura\Testes\TesteOOEncapsulamento\FCEF\E03ControlandoAcesso\obj\Debug\net9.0\E03ControlandoAcesso.AssemblyInfo.cs
+C:\Alura\Testes\TesteOOEncapsulamento\FCEF\E03ControlandoAcesso\obj\Debug\net9.0\E03ControlandoAcesso.csproj.CoreCompileInputs.cache
+C:\Alura\Testes\TesteOOEncapsulamento\FCEF\E03ControlandoAcesso\obj\Debug\net9.0\E03ControlandoAcesso.dll
+C:\Alura\Testes\TesteOOEncapsulamento\FCEF\E03ControlandoAcesso\obj\Debug\net9.0\refint\E03ControlandoAcesso.dll
+C:\Alura\Testes\TesteOOEncapsulamento\FCEF\E03ControlandoAcesso\obj\Debug\net9.0\E03ControlandoAcesso.pdb
+C:\Alura\Testes\TesteOOEncapsulamento\FCEF\E03ControlandoAcesso\obj\Debug\net9.0\E03ControlandoAcesso.genruntimeconfig.cache
+C:\Alura\Testes\TesteOOEncapsulamento\FCEF\E03ControlandoAcesso\obj\Debug\net9.0\ref\E03ControlandoAcesso.dll
+C:\Alura\Testes\TesteOOEncapsulamento\FCEF\E03ControlandoAcesso\obj\Debug\net9.0\E03ControlandoAcesso.sourcelink.json

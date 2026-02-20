@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E03ControlandoAcesso", "E03ControlandoAcesso.csproj", "{BCD1582A-EA0D-666F-42F1-3FED1D2DE3B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCD1582A-EA0D-666F-42F1-3FED1D2DE3B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCD1582A-EA0D-666F-42F1-3FED1D2DE3B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCD1582A-EA0D-666F-42F1-3FED1D2DE3B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCD1582A-EA0D-666F-42F1-3FED1D2DE3B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB3DB341-9BB9-4328-8A2A-7F68C045B290}
+	EndGlobalSection
+EndGlobal
