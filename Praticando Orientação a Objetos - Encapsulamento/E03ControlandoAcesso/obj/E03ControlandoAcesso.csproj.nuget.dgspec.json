@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Alura\\Testes\\TesteOOEncapsulamento\\FCEF\\E03ControlandoAcesso\\E03ControlandoAcesso.csproj": {}
+    "C:\\ExercisiosResolvidos\\Praticando Orientação a Objetos - Encapsulamento\\E03ControlandoAcesso\\E03ControlandoAcesso.csproj": {}
   },
   "projects": {
-    "C:\\Alura\\Testes\\TesteOOEncapsulamento\\FCEF\\E03ControlandoAcesso\\E03ControlandoAcesso.csproj": {
+    "C:\\ExercisiosResolvidos\\Praticando Orientação a Objetos - Encapsulamento\\E03ControlandoAcesso\\E03ControlandoAcesso.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Alura\\Testes\\TesteOOEncapsulamento\\FCEF\\E03ControlandoAcesso\\E03ControlandoAcesso.csproj",
+        "projectUniqueName": "C:\\ExercisiosResolvidos\\Praticando Orientação a Objetos - Encapsulamento\\E03ControlandoAcesso\\E03ControlandoAcesso.csproj",
         "projectName": "E03ControlandoAcesso",
-        "projectPath": "C:\\Alura\\Testes\\TesteOOEncapsulamento\\FCEF\\E03ControlandoAcesso\\E03ControlandoAcesso.csproj",
+        "projectPath": "C:\\ExercisiosResolvidos\\Praticando Orientação a Objetos - Encapsulamento\\E03ControlandoAcesso\\E03ControlandoAcesso.csproj",
         "packagesPath": "C:\\Users\\gerso\\.nuget\\packages\\",
-        "outputPath": "C:\\Alura\\Testes\\TesteOOEncapsulamento\\FCEF\\E03ControlandoAcesso\\obj\\",
+        "outputPath": "C:\\ExercisiosResolvidos\\Praticando Orientação a Objetos - Encapsulamento\\E03ControlandoAcesso\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

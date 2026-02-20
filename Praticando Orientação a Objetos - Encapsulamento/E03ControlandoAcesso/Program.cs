@@ -3,13 +3,13 @@ using E03ControlandoAcesso.Models;
 
 List<string> observacoes =
 [
-    "O paciente apresenta quadro estável, mantendo a adesão ao tratamento medicamentoso prescrito na última consulta. Foram revisados os níveis glicêmicos e a pressão arterial, que se encontram dentro da normalidade. Recomenda-se a continuidade da dieta hipossódica e a prática regular de exercícios físicos leves, com retorno previsto para três meses para novos exames laboratoriais de rotina.",
+    "Febre Prolongada: Paciente apresenta febre persistente (38,5°C) há 10 dias. Solicitei hemoculturas e sorologias para investigar arboviroses e endocardite.",
 
-    "Paciente relata início de sintomas gripais há aproximadamente quatro dias, incluindo febre persistente, mialgia intensa e tosse seca. Ao exame físico, nota-se congestão nasal e orofaringe levemente hiperemiada. Foi solicitada a realização de teste rápido para detecção de vírus respiratórios e prescrito tratamento sintomático. O paciente deve permanecer em repouso e manter hidratação rigorosa até a melhora do quadro.",
+    "Adesão ao Tratamento: Paciente em retorno de HIV. Estável, carga viral indetectável. Reforcei a importância da adesão rigorosa à terapia antirretroviral.",
 
-    "Realizada a retirada de pontos conforme o cronograma cirúrgico previsto. A ferida operatória apresenta excelente aspecto cicatricial, sem sinais de flogose, secreções purulentas ou deiscência. O paciente foi orientado sobre a importância de manter a proteção solar na região afetada para evitar hipercromia. Está liberado para retornar às atividades laborais gradualmente, evitando esforços físicos pesados por mais quinze dias.",
+    "Infecção de Pele: Celulite em membro inferior sem melhora com cefalexina. Alterei esquema para cobertura de MRSA e agendei retorno em 48 horas",
 
-    "Consulta de rotina realizada sem queixas clínicas específicas por parte do paciente. Foram solicitados exames de rastreio preventivo, incluindo hemograma completo, perfil lipídico e avaliação da função renal e hepática. Orientações sobre vacinação atualizada foram fornecidas, reforçando a necessidade da dose de reforço anual. O paciente demonstra bom entendimento sobre hábitos de vida saudáveis e medidas preventivas primárias.        Consulta de rotina realizada sem queixas clínicas específicas por parte do paciente. Foram solicitados exames de rastreio preventivo, incluindo hemograma completo, perfil lipídico e avaliação da função renal e hepática. Orientações sobre vacinação atualizada foram fornecidas, reforçando a necessidade da dose de reforço anual. O paciente demonstra bom entendimento sobre hábitos de vida saudáveis e medidas preventivas primárias."
+    "Desenvolvimento: Lactente de 6 meses em consulta de rotina. Peso e estatura adequados (P50). Iniciando introdução alimentar. Vacinação atualizada"
 ];
 
 var medico1 = new Medico("12345-SP", "Dr. Marcos Pimenta", AreaMedica.Infectologia);
